@@ -25,10 +25,10 @@ Snowflake (data warehouse, SQL), Kaggle (data source). No BI tool layer — all 
 ```
 sql/
   01_setup_database.sql       - warehouse, database, schema, table creation
-  04_data_cleaning.sql        - missing values, duplicates, invalid values, derived fields
-  05_analytics_queries.sql    - revenue analysis, ranking, growth, category breakdown
-  06_rfm_segmentation.sql     - RFM scoring and customer segmentation
-  07_cohort_retention.sql     - cohort definition and monthly retention
+  02_data_cleaning.sql        - missing values, duplicates, invalid values, derived fields
+  03_analytics_queries.sql    - revenue analysis, ranking, growth, category breakdown
+  04_rfm_segmentation.sql     - RFM scoring and customer segmentation
+  05_cohort_retention.sql     - cohort definition and monthly retention
 ```
 
 ## Data Model
