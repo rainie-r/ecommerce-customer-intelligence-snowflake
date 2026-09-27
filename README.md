@@ -65,6 +65,10 @@ Note: `customers.customer_id` is order-specific and changes per order. `customer
 4. **RFM segmentation surfaces $3.82M in revenue at risk.** The "Cant Lose Them" segment (13,776 customers, historically high value, now inactive) represents real revenue that may already be churned.
 5. **Delivery delays affect roughly 1 in 13 orders.** Worth testing as a contributing factor to low repeat purchase rates.
 
+## Revenue Trend
+
+![Monthly Revenue Trend](monthly_revenue_trend.png)
+
 ## Recommendations
 
 - Shift retention strategy from "keep top customers happy" to "convert first-time buyers into second-time buyers" — the volume math favors small improvements at scale over VIP treatment for a handful of accounts.
